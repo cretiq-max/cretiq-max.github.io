@@ -1,1 +1,1 @@
-# cretiq.github.io
+# cretiq-max.github.io
