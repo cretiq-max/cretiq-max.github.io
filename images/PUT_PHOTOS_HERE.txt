@@ -1,0 +1,3 @@
+대표사진: hero01.jpg ~ hero03.jpg
+일반사진: photo001.jpg ~ photo100.jpg
+파일 형식: JPG
